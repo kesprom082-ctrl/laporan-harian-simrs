@@ -4,7 +4,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Laporan Kerja IT SIMRS</title>
 
-<style>
+
 body {
   font-family: 'Segoe UI', Arial, sans-serif;
   background: linear-gradient(135deg, #eaf1f8, #f6f9fc);
