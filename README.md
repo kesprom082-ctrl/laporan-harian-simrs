@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="id">
 <head>
 <meta charset="UTF-8">
@@ -244,5 +243,3 @@ function resetForm() {
   foto.value = "";
 }
 </script>
-</body>
-</html>
