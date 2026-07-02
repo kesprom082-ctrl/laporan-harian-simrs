@@ -142,7 +142,7 @@ hr {
 </select>
 
 <label>Upload Foto</label>
-<input type="file" id="foto" accept="image/*" capture="environment" required>
+<input type="file" id="foto" accept="image/*" required>
 
 <button onclick="kirimData()">📤 Kirim Laporan</button>
 
